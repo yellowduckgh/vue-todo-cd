@@ -11,7 +11,7 @@ h1 {
 <script>
 export default {
 	created() {
-		//var h1 = document.querySelector('h1');
+		var h1 = document.querySelector('h1');
 		console.log('created', h1);
 	},
 	beforeMount() {
