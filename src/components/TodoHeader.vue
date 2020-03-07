@@ -1,5 +1,5 @@
 <template>
-  <h1>Todo App 할일관리</h1>
+  <h1>PWA 할 일 관리 앱</h1>
 </template>
 
 <style scoped>
