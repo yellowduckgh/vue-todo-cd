@@ -12,15 +12,15 @@ h1 {
 export default {
 	created() {
 		var h1 = document.querySelector('h1');
-		console.log('created', h1);
+		//console.log('created', h1);
 	},
 	beforeMount() {
 		var h1 = document.querySelector('h1');
-		console.log('beforeMount', h1);
+		//console.log('beforeMount', h1);
 	},
 	mounted() {
 		var h1 = document.querySelector('h1');
-		console.log('mounted', h1);
+		//console.log('mounted', h1);
 	},
 };
 </script>
